@@ -1,0 +1,9 @@
+{application, beanstalk, [
+  {description, "Driver lib for beanstalkd"},
+  {vsn, "1.0.0"},
+  {modules, [
+  ]},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {mod, {}}
+]}.
